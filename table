@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>parada07</title>
+    <meta charset="utf-8"
+
+  
+</head>
+
+<Style>
+    
+    table{
+        border-spacing: 0px;
+        width: 600px;
+        height: 400px;
+    }
+
+    table, td, tr, th{
+        border: 1px solid #000000;
+        text-align: center;
+    }
+
+    th{
+        background-color: #10b96d;
+        color: #ffffff;
+    }
+
+   
+
+    </Style>
+
+
+<body>
+    <table>
+        <tr>
+            <th colspan="3">Tabela de produtos</th>
+        </tr>
+        <tr>
+            <th>Código</th>
+            <th>Nome</th>
+            <th>Preço</th>
+        </tr>
+
+    
+        <tr>
+            <td >001</td>
+            <td>Pão</td>
+            <td>R$ 0,50</td>
+        </tr>
+
+        <tr>
+            <td >002</td>
+            <td>Queijo</td>
+            <td>R$ 5,80</td>
+        </tr>
+
+        <tr>
+            <td >003</td>
+            <td>Leite</td>
+            <td>R$ 10,45</td>
+        </tr>
+
+        <tr>
+            <td >004</td>
+            <td>Biscoito</td>
+            <td>R$ 3,90</td>
+        </tr>
+
+        <tr>
+            <td >005</td>
+            <td>Arroz</td>
+            <td>R$ 30,00</td>
+        </tr>
+
+    </table>
+</body>
+
+
+
+</html>
